@@ -1,0 +1,55 @@
+body, p, ul, p, Ul {
+  margin: 0;
+  padding: 0;
+}
+
+.H1 {
+  font-size: 30px;
+  color: rgb(9, 107, 143);
+  display: block;
+}
+
+header {
+  background-color: #e6e6e6;
+  color: white;
+  padding: 1rem;
+}
+
+.nav-menu {
+  list-style: none;
+  display: inline-block;
+}
+
+.nav-menu li {
+  display: inline;
+  margin-right: 1rem;
+}
+
+.nav-menu a{
+  color: rgb(137, 35, 35);
+  text-decoration: none;
+}
+
+.nav-menu a:hover {
+  text-decoration: underline;
+}
+
+main{
+  padding: 1rem;
+  background-color: aliceblue;
+}
+
+article {
+  background-color: rgb(200, 233, 230);
+  padding: 1rem;
+  margin-top: 1rem;
+  border: 1px solid #333;
+}
+
+footer{
+  background-color: #9fcaa6;
+  text-align: center;
+  padding: 0.5rem;
+  margin-top: 2rem;
+}
+
